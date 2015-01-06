@@ -3,7 +3,7 @@
 # User define Function (UDF)
 LogLine(){
   echo -E "`date +%s`,${line}"
- sqlite3 tempDatabase.db3 "insert into 	tempData(time_stamp, sensor, temp) values (`date +%s`,${line})"
+ sqlite3 tempDatabase.db3 "insert into tempData(time_stamp, sensor, temp) values (`date +%s`,${line})"
 } 
 ### Main script stars here ###
 # Store file name
