@@ -15,6 +15,7 @@ This is an exsample of the data in tempData table:
 The first colomn is unix time teh measurement was taken, colomn two is the
 sensor name, the last is the sensor data.
 
+#+BEGIN_EXSAMPLE
 1420626555|1|22.6
 1420626557|1|23.39
 1420626559|1|23.84
@@ -30,3 +31,4 @@ sensor name, the last is the sensor data.
 1420626579|1|24.34
 1420626581|1|23.99
 1420626583|1|23.67
+#+END_EXSAMPLE
