@@ -9,13 +9,14 @@ And got the idé from
 http://raspberrywebserver.com/cgiscripting/rpi-temperature-logger/
 
 Now there is only one temperature sensor active, the read_arduino.sh reads the
-sensor and stores it in the database tempDatabase.db3. It is stored in table
+sensor and stores it in the database ***tempDatabase.db3***. It is stored in table
 tempData.
-This is an exsample of the data in tempData table:
-The first colomn is unix time teh measurement was taken, colomn two is the
-sensor name, the last is the sensor data.
+This is an exsample of the data in ***tempData*** table:
+- first colomn is unix time teh measurement was taken, 
+- second colomn is the sensor name 
+- the last is the sensor data.
 
-#+BEGIN_EXSAMPLE
+```
 1420626555|1|22.6
 1420626557|1|23.39
 1420626559|1|23.84
@@ -31,4 +32,4 @@ sensor name, the last is the sensor data.
 1420626579|1|24.34
 1420626581|1|23.99
 1420626583|1|23.67
-#+END_EXSAMPLE
+```
