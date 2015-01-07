@@ -1,0 +1,5 @@
+* Sjekke nettsider
+Installasjon og upretting av database for mysql
+http://www.raspipress.com/2014/06/tutorial-install-mysql-server-on-raspbian/
+
+
