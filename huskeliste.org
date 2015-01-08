@@ -1,5 +1,6 @@
 * Sjekke nettsider
 Installasjon og upretting av database for mysql
 http://www.raspipress.com/2014/06/tutorial-install-mysql-server-on-raspbian/
-
+flott guide til å bruke arduino over ethernet
+http://www.tweaking4all.com/hardware/arduino/arduino-ethernet-data-push/
 
